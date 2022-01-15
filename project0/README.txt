@@ -1,1 +1,2 @@
-sh: 1: cannot open S-Insert: No such file
+I would like to learn whatever the professor teaches...I don't really have an expectation for the concept to learn..
+
